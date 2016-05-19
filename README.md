@@ -11,6 +11,8 @@ competencies: Command Line
 
 ## Star Wars, the Command Line, and The Battle for the Fate of the Universe
 
+![https://media.giphy.com/media/1x65Yj512fquc/giphy.gif](https://media.giphy.com/media/1x65Yj512fquc/giphy.gif)
+
 Clone this repository to your laptop. You will work inside of the folder for this repository to practice command line.
 
 Working in the command line is a key skill to develop as a programmer. It's a big break from what you're used to, and practice makes (eventually) perfect. Let's explore the Star Wars narrative using the command line.
