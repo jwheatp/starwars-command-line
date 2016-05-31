@@ -13,7 +13,7 @@ competencies: Command Line
 
 ![https://media.giphy.com/media/1x65Yj512fquc/giphy.gif](https://media.giphy.com/media/1x65Yj512fquc/giphy.gif)
 
-Clone this repository to your laptop. You will work inside of the folder for this repository to practice command line.
+This is probably your first homework assignment! If so, in your home directory (`cd` to get there), create a new directory called `adi`. **All** of your homework will be stored there. Change into the `adi` directory and create a `starwars-command-line` directory and then change into it. You will work inside of this `starwars-command-line` folder for this homework assignment to practice command line.
 
 Working in the command line is a key skill to develop as a programmer. It's a big break from what you're used to, and practice makes (eventually) perfect. Let's explore the Star Wars narrative using the command line.
 
