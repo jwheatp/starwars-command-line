@@ -1,31 +1,18 @@
----
-title: Star Wars Command line 
-type: homework
-duration: "1:25"
-creator:
-    name: Andrew Madden? Unkown WDI instructor?
-    city: NYC
-competencies: Command Line
----
-
-
 ## Star Wars, the Command Line, and The Battle for the Fate of the Universe
 
 ![https://media.giphy.com/media/1x65Yj512fquc/giphy.gif](https://media.giphy.com/media/1x65Yj512fquc/giphy.gif)
 
-This is probably your first homework assignment! If so, in your home directory (`cd` to get there), create a new directory called `adi`. **All** of your homework will be stored there. Change into the `adi` directory and create a `starwars-command-line` directory and then change into it. You will work inside of this `starwars-command-line` folder for this homework assignment to practice command line.
+In this exercise you learn the basics of the command line.
 
-Working in the command line is a key skill to develop as a programmer. It's a big break from what you're used to, and practice makes (eventually) perfect. Let's explore the Star Wars narrative using the command line.
+First, create a `star_wars` directory and go there.
 
 **Note:** Each file (not directory/folder) you create should be a *text file*. This means the file will end with the extension of `*.txt`. For example: `jimbo_jones.txt`
 
-#### "A New Hope"
 ###### Act I
 
-* In your `~/adi/starwars-command-line/` directory, create a directory called `star_wars`
 * In your `star_wars` folder, create two new directories: `empire` and `rebellion`.
 * Inside the `empire` directory, create a .txt file called `darth_vader`
-* Use the force(or your knowledge of the command line) to add the text "...heavy breathing..." to the `darth_vader` file. (Don't remember how to do this? Use the 'other force', known as Google or Stack Overflow)
+* Use the force (or your knowledge of the command line) to add the text "...heavy breathing..." to the `darth_vader` file.
 * Inside the empire directory, create a .txt file called `emperor_palpatine`.
 * Inside the empire directory, create a directory called `death_star`
 * Move `darth_vader` into the `death_star`
@@ -50,4 +37,3 @@ Working in the command line is a key skill to develop as a programmer. It's a bi
 * darth_vader leaves the death_star to pursue Luke! Move him from the death_star into the empire directory!
 * Thanks to his practice back home at Beggar's Canyon, Luke blew up the death star! Remove it from the galaxy!
 * You win!
-* We will walk through how to submit homework tomorrow!
